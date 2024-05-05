@@ -2,7 +2,7 @@ import reflex as rx
 
 from webui import styles
 from webui.components import loading_icon
-from webui.state import q, QA
+from webui.state import QA
 from webui.state import Statex as stn
 from openai import OpenAI
 from webui.state import news
